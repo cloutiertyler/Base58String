@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/attaswift/BigInt.git",
+        "state": {
+          "branch": null,
+          "revision": "31d0f6fa0aa945c09eff091ad26cb5b44e956f79",
+          "version": "3.0.1"
+        }
+      },
+      {
+        "package": "SipHash",
+        "repositoryURL": "https://github.com/attaswift/SipHash",
+        "state": {
+          "branch": null,
+          "revision": "7b47e3f23a66770b1eb18e15e20546aad398c9dd",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
