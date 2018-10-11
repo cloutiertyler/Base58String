@@ -7,4 +7,5 @@ Pod::Spec.new do |spec|
   spec.source_files = 'Sources/Base58String/Base58String.swift'
   spec.license 		= 'MIT'
   spec.summary      = 'Base58String provides an idiomatic Swift version of go-base58 string'
+  spec.dependency 'BigInt', '~> 3.1'
 end
