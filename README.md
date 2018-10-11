@@ -14,6 +14,14 @@ Add the following to your Package.swift file in "dependencies".
 .package(url: "https://github.com/cloutiertyler/Base58String.git", from: "0.1.0")
 ```
 
+### CocoaPods
+
+Add the following to your Podfile:
+
+```
+pod 'Base58String', :git => 'https://github.com/keefertaylor/Base58String.git'	
+```
+
 ## Usage
 
 ```Swift
