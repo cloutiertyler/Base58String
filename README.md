@@ -19,7 +19,7 @@ Add the following to your Package.swift file in "dependencies".
 Add the following to your Podfile:
 
 ```
-pod 'Base58String', :git => 'https://github.com/keefertaylor/Base58String.git'	
+pod 'Base58String', :git => 'https://github.com/cloutiertyler/Base58String.git'	
 ```
 
 ## Usage
