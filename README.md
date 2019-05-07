@@ -21,6 +21,13 @@ Add the following to your Podfile:
 ```
 pod 'Base58String', :git => 'https://github.com/keefertaylor/Base58String.git'	
 ```
+### Carthage
+
+Add the following to your Cartfile:
+
+```
+github "wacumov/Base58String" "master"
+```
 
 ## Usage
 
